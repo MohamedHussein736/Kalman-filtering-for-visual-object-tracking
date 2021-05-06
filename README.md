@@ -13,7 +13,7 @@
   $ make
   ```
 
-2 - Run: Tracker (motion model: velocity or acceleration) videoNumber(0,1,2)
+2 - Run: Tracker (motion model: velocity or acceleration) videoNumber (0, 1, 2)
 ```
  $ Tracker velocity 0
 ```
