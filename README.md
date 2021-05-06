@@ -8,10 +8,15 @@
 0- change the path dir in the main script.
 
 1- Compile the program.
-   make
-   
-2- Run: Tracker (motion model: velocity or acceleration) videoNumber(0,1,2)
-  Tracker velocity 0
-  Tracker acceleration 0
+  ```
+  $ make
+  ```
 
+2- Run: Tracker (motion model: velocity or acceleration) videoNumber(0,1,2)
+```
+ $ Tracker velocity 0
+```
+```
+ $ Tracker acceleration 0
+```
   
